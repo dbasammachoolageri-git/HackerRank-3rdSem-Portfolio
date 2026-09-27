@@ -23,6 +23,22 @@ HackerRank algorithmic problem-solving portfolio for 3rd Semester B.Tech CSE, fe
 - Practiced algorithm optimization and complexity analysis.
 - Integrated HackerRank solutions into GitHub for portfolio development.
 
+## HackerRank Evidence
+
+Screenshots of accepted submissions and the earned 3-Star Problem Solving badge are available in the [screenshots folder](./screenshots/).
+
+### Accepted Submissions
+
+- [Diagonal Difference](./screenshots/diagonal-difference.png)
+- [Dynamic Array](./screenshots/dynamic-array.png)
+- [Time Conversion](./screenshots/time-conversion.png)
+- [Compare the Triplets](./screenshots/compare-the-triplets.png)
+- [Sparse Arrays](./screenshots/sparse-arrays.png)
+
+### Problem Solving Badge
+
+- [3-Star Problem Solving Badge](./screenshots/3-star-badge.png)
+
 ## Learning Summary
 
 Through these problems, I improved my understanding of arrays, strings, hash maps, dynamic data structures, XOR operations, and algorithmic thinking. I also learned how to analyze time and space complexity and organize programming solutions in a structured GitHub portfolio.
@@ -41,4 +57,12 @@ HackerRank-3rdSem-Portfolio/
 │   └── solution.cpp
 ├── Sparse-Arrays/
 │   └── solution.cpp
+├── screenshots/
+│   ├── README.md
+│   ├── diagonal-difference.png
+│   ├── dynamic-array.png
+│   ├── time-conversion.png
+│   ├── compare-the-triplets.png
+│   ├── sparse-arrays.png
+│   └── 3-star-badge.png
 └── README.md
